@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.13 (TeX Live 2013/dev) (format=pdflatex 2016.6.10)  9 MAY 2017 09:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.13 (TeX Live 2013/dev) (format=pdflatex 2016.6.10)  9 MAY 2017 09:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1482,13 +1482,13 @@ Package pdftex.def Info: ROC_ARF5_negative_set.png used on input line 52.
 
 ]
 <ARF5_interdistances_-6-7-8-9-10-11-12_points_4Neg.png, id=291, 1734.48pt x 865
-.7946pt>
+.0719pt>
 File: ARF5_interdistances_-6-7-8-9-10-11-12_points_4Neg.png Graphic file (type 
 png)
  <use ARF5_interdistances_-6-7-8-9-10-11-12_points_4Neg.png>
 Package pdftex.def Info: ARF5_interdistances_-6-7-8-9-10-11-12_points_4Neg.png 
 used on input line 61.
-(pdftex.def)             Requested size: 307.27025pt x 215.31198pt.
+(pdftex.def)             Requested size: 307.27025pt x 215.31705pt.
  [11
 
  <./ARF5_interdistances_-6-7-8-9-10-11-12_points_4Neg.png>]
@@ -1510,24 +1510,24 @@ Package pdftex.def Info: EMSA_DR.png used on input line 69.
 (pdftex.def)             Requested size: 276.55573pt x 215.31422pt.
  [13
 
- <./EMSA_DR.png>] <tableau_DR.png, id=373, 420.57124pt x 340.27126pt>
+ <./EMSA_DR.png>] <tableau_DR.png, id=373, 315.42844pt x 255.20343pt>
 File: tableau_DR.png Graphic file (type png)
  <use tableau_DR.png>
 Package pdftex.def Info: tableau_DR.png used on input line 73.
-(pdftex.def)             Requested size: 236.61566pt x 188.40106pt.
+(pdftex.def)             Requested size: 236.61406pt x 188.41144pt.
 
 [14
 
- <./tableau_DR.png>] <A_and_T_rate.png, id=399, 243.91125pt x 344.28625pt>
+ <./tableau_DR.png>] <A_and_T_rate.png, id=400, 182.93344pt x 258.21469pt>
 File: A_and_T_rate.png Graphic file (type png)
 
 <use A_and_T_rate.png>
 Package pdftex.def Info: A_and_T_rate.png used on input line 77.
-(pdftex.def)             Requested size: 153.64629pt x 161.48885pt.
+(pdftex.def)             Requested size: 153.65187pt x 161.4941pt.
  [15
 
  <./A_and_T_rate.png>]
-<logos.png, id=424, 955.31906pt x 773.89125pt>
+<logos.png, id=427, 955.31906pt x 773.89125pt>
 File: logos.png Graphic file (type png)
  <use logos.png>
 Package pdftex.def Info: logos.png used on input line 81.
@@ -1535,7 +1535,7 @@ Package pdftex.def Info: logos.png used on input line 81.
  [16
 
  <./logos.png>]
-<ARF2_ARF5_methylation_and_sample_sizes_v3.png, id=450, 1606.0pt x 1003.75pt>
+<ARF2_ARF5_methylation_and_sample_sizes_v3.png, id=453, 1606.0pt x 1003.75pt>
 File: ARF2_ARF5_methylation_and_sample_sizes_v3.png Graphic file (type png)
 
 <use ARF2_ARF5_methylation_and_sample_sizes_v3.png>
@@ -1570,18 +1570,18 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
  ) 
 Here is how much of TeX's memory you used:
- 19598 strings out of 493515
- 364459 string characters out of 3144460
+ 19600 strings out of 493515
+ 364475 string characters out of 3144460
  451635 words of memory out of 3000000
- 22382 multiletter control sequences out of 15000+200000
+ 22384 multiletter control sequences out of 15000+200000
  5458 words of font info for 20 fonts, out of 3000000 for 9000
  953 hyphenation exceptions out of 8191
  49i,14n,53p,448b,547s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb>
-Output written on lab_meeting_08_05_2017.pdf (17 pages, 1011911 bytes).
+Output written on lab_meeting_08_05_2017.pdf (17 pages, 1057740 bytes).
 PDF statistics:
- 495 PDF objects out of 1000 (max. 8388607)
+ 497 PDF objects out of 1000 (max. 8388607)
  436 compressed objects within 5 object streams
  35 named destinations out of 1000 (max. 500000)
  130 words of extra memory for PDF output out of 10000 (max. 10000000)
